@@ -18,7 +18,7 @@ I love reading chinese novels/Xiantia. Apart from that I am a poet, aothor and s
 
 [![Rhyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-catalystmc&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-catalystmc&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-catalystmc&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
 
 
 
