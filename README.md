@@ -1,4 +1,4 @@
-### Hello, Rhyine here, I am on a mission to prove the keyboard is mightier than the sword.! 🤓
+###I believe the keyboard is mightier than the sword.! 🤓
 
 ## Stats
 
