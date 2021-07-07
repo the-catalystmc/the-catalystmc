@@ -1,4 +1,4 @@
-### Hello, Rhyine here and I am in love with all forms of writing.! 🤓
+### Hello, Rhyine here, I am on a mission to prove the keyboard is mightier than the sword.! 🤓
 
 ## Stats
 
