@@ -1,5 +1,11 @@
 ### Hello, Rhyine here and I am in love with all forms of writing.! 🤓
 
+## Stats
+
+[![Rhyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-catalystmc&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-catalystmc&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
+
 ## My inner workings and past experiences
 
 Growing up I could always be seen with a book. I remember the first set of books I read were the ones issued at my local primary school in grade one. I later moved on to reading Enid Blyton's compilations, the Harry Potter series and Lord of the Rings by the age of 9. My classmates used to say the books are bigger than I am.  
@@ -12,13 +18,9 @@ Today I am a student at Microverse where I am honing my programming skills. At t
 
 ## Misc
 
-I love reading chinese novels/Xiantia. Apart from that I am a poet, aothor and screenwriter.
+I love reading chinese novels/Xiantia. Apart from that I am a poet, author and screenwriter.
 
-## Stats
 
-[![Rhyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-catalystmc&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-catalystmc&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github.com/the-catalystmc/github-readme-stats)
 
 
 
