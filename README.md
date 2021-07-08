@@ -2,7 +2,7 @@
 
 ## Stats
 
-[![Rhyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-catalystmc&theme=radical)]()
+[![Rhyine's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-catalystmc&theme=radical)](https://github.com/the-catalystmc/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-catalystmc&layout=compact&langs_count=4&theme=radical)](https://github.com/the-catalystmc/github-readme-stats)
 
