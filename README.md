@@ -19,7 +19,10 @@ Through reading I have developed a love for writing, I have written books, scree
 Today I am a student at Microverse where I am honing my programming skills. At the same time, I am pursuing my BSc in Computer Science.
 I am also open to colloborations and, new opportunities.
 
-
+<p align="center"> 
+  You are visitor number: <br>
+  <img src="https://profile-counter.glitch.me/the-catalystmc/count.svg" />
+</p>
 
 
 
